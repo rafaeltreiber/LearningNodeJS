@@ -1,0 +1,5 @@
+{"freemem":"1691 MB","total":"6046 MB","usage":"27 %"} 
+{"freemem":"1679 MB","total":"6046 MB","usage":"27 %"} 
+{"freemem":"1683 MB","total":"6046 MB","usage":"27 %"} 
+{"freemem":"1671 MB","total":"6046 MB","usage":"27 %"} 
+{"freemem":"1681 MB","total":"6046 MB","usage":"27 %"} 
